@@ -1,3 +1,8 @@
 {
+  "analytics": "analytics",
+  "accounts": "accounts",
+  "dashboard": "dashboard",
+  "imports": "imports",
+  "records": "records",
   "welcome": "Welcome"
 }

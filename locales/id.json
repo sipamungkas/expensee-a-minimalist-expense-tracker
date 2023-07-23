@@ -1,3 +1,8 @@
 {
+  "analytics": "analytics",
+  "accounts": "akun",
+  "dashboard": "beranda",
+  "imports": "imports",
+  "records": "records",
   "welcome": "Selamat Datang"
 }
