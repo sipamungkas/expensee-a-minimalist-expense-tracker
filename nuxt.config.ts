@@ -1,10 +1,13 @@
-import en from "./locales/en.json";
-import id from "./locales/id.json";
-
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  css: ["@/assets/css/main.css"],
   devtools: { enabled: true },
-  modules: ["@nuxtjs/i18n", "@nuxt/image", "@pinia/nuxt"],
+  modules: [
+    "@nuxtjs/i18n",
+    "@nuxt/image",
+    "@nuxtjs/tailwindcss",
+    "@pinia/nuxt",
+  ],
   i18n: {
     locales: ["en", "id"],
     defaultLocale: "en",

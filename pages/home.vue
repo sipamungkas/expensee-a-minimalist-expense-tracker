@@ -3,5 +3,5 @@ const { locale } = useI18n()
 </script>
 
 <template>
-    <h1>{{ locale }} {{ $t('welcome') }}</h1>
+    <h1 class="text-lg">{{ locale }} {{ $t('welcome') }}</h1>
 </template>
