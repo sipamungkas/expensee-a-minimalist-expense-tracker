@@ -17,7 +17,9 @@
     "nuxt": "^3.6.5"
   },
   "dependencies": {
-    "@pinia/nuxt": "^0.4.11"
+    "@heroicons/vue": "^2.0.18",
+    "@pinia/nuxt": "^0.4.11",
+    "nuxt-headlessui": "^1.1.4"
   },
   "overrides": {
     "vue": "latest"

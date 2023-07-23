@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxtjs/tailwindcss",
     "@pinia/nuxt",
+    "nuxt-headlessui",
   ],
   i18n: {
     locales: ["en", "id"],
