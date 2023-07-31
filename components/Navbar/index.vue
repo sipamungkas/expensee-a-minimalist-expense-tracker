@@ -42,7 +42,7 @@ const switchLocalePath = useSwitchLocalePath()
                 <NuxtLink href="#"
                     class="text-sm lg:text-md 2xl:text-base font-semibold leading-6 text-gray-400 hover:text-gray-900 capitalize">
                     {{
-                        $t('accounts') }}</NuxtLink>
+                        $t('pockets') }}</NuxtLink>
                 <NuxtLink href="#"
                     class="text-sm lg:text-md 2xl:text-base font-semibold leading-6 text-gray-400 hover:text-gray-900 capitalize">
                     {{ $t('records') }}</NuxtLink>
