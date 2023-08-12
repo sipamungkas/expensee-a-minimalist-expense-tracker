@@ -2,6 +2,9 @@
   "analytics": "analytics",
   "pockets": "pockets",
   "dashboard": "dashboard",
+  "dashboardContent": {
+    "addPocket": "Add Pocket"
+  },
   "imports": "imports",
   "records": "records",
   "welcome": "Welcome"

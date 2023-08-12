@@ -19,7 +19,9 @@
   "dependencies": {
     "@heroicons/vue": "^2.0.18",
     "@pinia/nuxt": "^0.4.11",
-    "nuxt-headlessui": "^1.1.4"
+    "apexcharts": "^3.41.1",
+    "nuxt-headlessui": "^1.1.4",
+    "vue3-apexcharts": "^1.4.4"
   },
   "overrides": {
     "vue": "latest"

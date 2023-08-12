@@ -2,6 +2,9 @@
   "analytics": "analytics",
   "pockets": "kantong",
   "dashboard": "beranda",
+  "dashboardContent": {
+    "addPocket": "Add Pocket"
+  },
   "imports": "imports",
   "records": "records",
   "welcome": "Selamat Datang"

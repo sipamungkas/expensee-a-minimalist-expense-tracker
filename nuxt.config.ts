@@ -21,4 +21,5 @@ export default defineNuxtConfig({
   pinia: {
     autoImports: ["defineStore", "acceptHMRUpdate"],
   },
+  plugins: [{ src: "~/plugins/apexcharts.ts", mode: "client" }],
 });

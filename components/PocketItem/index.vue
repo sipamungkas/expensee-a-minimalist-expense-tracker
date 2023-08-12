@@ -1,7 +1,7 @@
 <script setup lang="ts">
 interface Props {
     title: string,
-    balance: number,
+    balance: string,
     class?: string
 }
 const props = defineProps<Partial<Props>>()
